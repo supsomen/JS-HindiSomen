@@ -20,6 +20,8 @@ let isLoggedIn=false
 //object
 console.log(typeof null) // object
 
+co
+
 
 
 
